@@ -27,9 +27,9 @@ Bilgisayar Programcılığı mezunu bir yazılım geliştiriciyim. Lise yıllar�
 ## 📫 İletişim
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akkayaahmet0)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmtakkaya3734@gmail.com)
 
 ---
 
-⭐️ From [AhmetAkkaya](https://github.com/your-username)
+⭐️ From [AhmetAkkaya](https://github.com/akkayaahmet0)
